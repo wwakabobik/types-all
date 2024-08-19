@@ -1,3 +1,10 @@
+# FORK notice
+
+This is fork from original repo, to aim to have types-all have to be up-to-date.
+
+Fixed:
+- types-pkg-resources (yanked) replaced with types-setuptools
+
 # DEPRECATED
 
 well, not really deprecated but it represents a point-in-time and won't be changing
